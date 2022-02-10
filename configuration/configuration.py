@@ -3,7 +3,7 @@
 ## Create separate files to overwrite the settings.
 ## See `extra.py` as an example.
 ####
-
+test_topis = 1
 import re
 from os import environ
 from os.path import abspath, dirname, join
